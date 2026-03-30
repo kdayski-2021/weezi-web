@@ -3,6 +3,7 @@
   "buildCommand": "yarn build",
   "build": {
     "env": {
+      "CI": "false",
       "NODE_OPTIONS": "--openssl-legacy-provider"
     }
   }
