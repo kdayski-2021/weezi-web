@@ -1,0 +1,10 @@
+{
+  "installCommand": "yarn install --frozen-lockfile",
+  "buildCommand": "yarn build",
+  "build": {
+    "env": {
+      "NODE_OPTIONS": "--openssl-legacy-provider"
+    }
+  }
+}
+
