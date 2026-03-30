@@ -6,8 +6,8 @@
     "node": "20.x"
   },
   "resolutions": {
-    "postcss": "8.4.31",
-    "postcss-safe-parser": "6.0.0"
+    "postcss": "7.0.35",
+    "postcss-safe-parser": "4.0.2"
   },
   "dependencies": {
     "@material-ui/core": "^4.12.3",
